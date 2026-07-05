@@ -28,4 +28,4 @@ jobs:
 
       - name: Run Python Script
         run: |
-          python extractor.py
+          python extractor.py document_for_parsing.pdf
